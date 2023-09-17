@@ -1,7 +1,7 @@
 # Table of Contents
 * [Summary](#summary)
 * [Tools Used in this Repo](#tools-used-in-this-repo)
-* [Q&A](#q-a)
+* [Q&A](#qa)
   * [When is Celery Needed?](#when-is-celery-needed)
   * [How does a Tool like Django Work with Celery](#how-does-a-tool-like-django-work-with-celery)
 * [Sources of Information on Celery](#sources-of-information-on-celery)
